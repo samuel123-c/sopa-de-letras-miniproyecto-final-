@@ -13,4 +13,25 @@ Este proyecto, basado en Python, es un solucionador de sopas de letras. Permite 
 
 2. **Clonar el Repositorio**:  
    Clona este repositorio a tu máquina local usando Git:
+   Para clonar este repositorio en tu máquina local, sigue estos pasos:
+
+ **Obtén la URL del repositorio**
+   - Ve a la página del repositorio en GitHub: [sopa-de-letras-miniproyecto-final](https://github.com/samuel123-c/sopa-de-letras-miniproyecto-final).
+   - Haz clic en el botón **Code** y copia la URL en formato HTTPS.
+
+ **Abre la terminal**
+   - Si estás en **Windows**, abre Git Bash.
+   - Si estás en **macOS** o **Linux**, abre una terminal.
+
+ **Clona el repositorio**
+   - Ejecuta el siguiente comando en tu terminal:
+     ```bash
+     git clone https://github.com/samuel123-c/sopa-de-letras-miniproyecto-final.git
+     ```
+**Accede al repositorio clonado**
+   - Una vez clonado el repositorio, entra en la carpeta:
+     ```bash
+     cd sopa-de-letras-miniproyecto-final
+     ```
+
 
