@@ -1,12 +1,10 @@
-# Word Search Solver
+# Buscador Sopa De Letras
 
-**Autor**: [Tu Nombre o Nombre de Usuario]
+**Autor**: samuel alejandro cuaran romo
 
 ## Descripción
 
-Este proyecto es un solucionador de sopas de letras basado en Python. Permite introducir una sopa de letras (una cuadrícula de letras) y una lista de palabras para buscar dentro de la sopa. El programa verifica si cada palabra existe en la sopa, en cualquier dirección (horizontal, vertical o diagonal), y genera un reporte en formato JSON que indica si cada palabra fue encontrada o no.
-
-El proyecto lee la sopa de letras y la lista de palabras desde un archivo, procesa los datos y genera un archivo JSON con los resultados.
+Este proyecto, basado en Python, es un solucionador de sopas de letras. Permite ingresar una cuadrícula de letras y una lista de palabras a buscar. El programa verifica si cada palabra está presente en la sopa en cualquier dirección: horizontal, vertical o diagonal. Luego, genera un reporte en formato JSON que indica si cada palabra fue encontrada o no. El programa lee los datos desde un archivo, los procesa y genera el archivo JSON con los resultados.
 
 ## Cómo Ejecutar el Proyecto
 
